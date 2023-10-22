@@ -45,3 +45,20 @@ Both men and women show a gradual increase in the average first marriage age ove
   <figcaption>Figure 3. Statistics of average marriage age by Highest Degree</figcaption>
 </figure>
 
+
+### 3.1 (ex) Correlation <br>
+
+<figure>
+  <img src="summary of degreeM.png" alt="Statistics of average marriage age by Highest Degree"/>
+  <figcaption>Figure 3. Statistics of average marriage age by Highest Degree</figcaption>
+</figure>
+
+
+
+
+### 3.2 (ex) Clustering <br>
+~~
+
+<br><br>
+## 4. Suggestion <br>
+Based on the insights you obtained from the previous stages, propose the potential project idea.
