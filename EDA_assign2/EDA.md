@@ -46,19 +46,35 @@ Both men and women show a gradual increase in the average first marriage age ove
 </figure>
 
 
-### 3.1 (ex) Correlation <br>
+### 3.1 Correlation between survey year and age at first marriage <br>
 
 <figure>
-  <img src="summary of degreeM.png" alt="Statistics of average marriage age by Highest Degree"/>
-  <figcaption>Figure 3. Statistics of average marriage age by Highest Degree</figcaption>
+  <img src="change in MA fe.png" alt="Change in Average Women's Marriage age over time"/>
+  <figcaption>Figure 4. Change in Average Women's Marriage age over time</figcaption>
 </figure>
 
 
+<figure>
+  <img src="change in MA ma.png" alt="Change in Average Men's Marriage age over time"/>
+  <figcaption>Figure 4. Change in Average Men's Marriage age over time</figcaption>
+</figure>
+
+Upon analyzing the data, it was observed that the average marriage age increases over time when separated by gender, but when examining the entire dataset, the correlation coefficient was 0.05. This indicates that there is a weak relationship between the survey year and the average marriage age, suggesting that survey year and marriage age are not strongly related. 
 
 
-### 3.2 (ex) Clustering <br>
-~~
+### 3.2 Correlation between highest education and age at first marriage <br>
+<figure>
+  <img src="change in MA on degree.png" alt="Change in Average Marriage age over time"/>
+  <figcaption>Figure 4. Change in Average Marriage age depend on degree</figcaption>
+</figure>
+
+This is a plot depicting the relationship between marriage age and the highest level of education. It was observed that as the level of education increases, the average marriage age also increases. When calculating the correlation coefficient for the entire dataset, it was found to be 0.13, indicating a very weak positive correlation.
+
 
 <br><br>
 ## 4. Suggestion <br>
-Based on the insights you obtained from the previous stages, propose the potential project idea.
+In this analysis, it was found that survey year and educational level had limited impact on marriage age. Therefore, in a new project, investigating other variables that may influence marriage age is a consideration.
+
+For instance, factors such as economic indicators, regional influences, family composition, cultural elements, changes in marriage rates, and factors like home purchases after marriage can be examined. Through this additional investigation, the aim is to uncover complex patterns and causal relationships affecting marriage age and identifying potential determinants that may impact future marriage trends.
+
+Exploring additional variables provides insights into the factors influencing marriage age, potentially shedding light on future marriage trends.
